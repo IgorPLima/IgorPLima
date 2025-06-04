@@ -1,4 +1,14 @@
-## Hi there 👋
+# 👩🏻‍💻 Igor Lima
+
+**`Desenvolvedor FullStack`**
+
+Me chamo Igor Pereira de Lima, tenho 27 anos e sou natural de Fortim–CE. Sou bacharel em Ciência da Computação pelo IFCE – Campus Aracati e atualmente curso pós-graduação em Desenvolvimento Web Full Stack pela Descomplica Faculdade.
+
+Tenho 2 anos de experiência como desenvolvedor, atuando com frontend e full stack, principalmente em projetos voltados para a área da saúde e soluções comerciais. Já trabalhei com tecnologias como React.js, Angular, Vue.js, .NET Core, além de ferramentas como Docker, Firebase e AWS.
+
+Durante minha trajetória, participei de projetos importantes como o PowerLab e o Frontier Viewer Foundation (FVF), contribuindo com o desenvolvimento de interfaces modernas e performáticas. Também fui bolsista em iniciativas acadêmicas de impacto social como o AMAR-APP e o #FiqueNoLar, que ajudaram comunidades durante a pandemia.
+
+Sou apaixonado por tecnologia, inovação e desenvolvimento de soluções que tenham impacto real na vida das pessoas. Gosto de trabalhar em equipe, aprender constantemente e enfrentar novos desafios.
 
 <!--
 **IgorPLima/IgorPLima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
