@@ -180,23 +180,23 @@ Sou apaixonado por tecnologia, inovação e desenvolvimento de soluções que te
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"
 />
 
-<img 
+<!--<img 
     align="left" 
     alt="npm" 
     title="npm"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg"
-/>
+/>-->
  
-<img 
+<!-- <img 
     align="left" 
     alt="yarn" 
     title="yarn"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/yarn/yarn-original.svg"
-/>
+/>-->
 
 <br/>
 <br/>
